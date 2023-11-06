@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb05a9cb-b840-4391-a40b-aabb0e3af464" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Automovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chasis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CorreoElectronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GestorPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="bb05a9cb-b840-4391-a40b-aabb0e3af464" name="Changes" comment="Se crean clases para gestor personal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Principal" />
@@ -96,6 +82,27 @@
       <option name="presentableId" value="Default" />
       <updated>1699277593177</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se crean clases para gestor personal">
+      <option name="closed" value="true" />
+      <created>1699283837477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699283837477</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se crean clases para gestor personal">
+      <option name="closed" value="true" />
+      <created>1699283885743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699283885743</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se crean clases para gestor personal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crean clases para gestor personal" />
   </component>
 </project>
